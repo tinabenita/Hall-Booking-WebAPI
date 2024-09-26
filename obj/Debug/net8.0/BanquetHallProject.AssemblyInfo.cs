@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BanquetHallProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0720d682caa0045187d0d0fc3e799e7537e9c1d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BanquetHallProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BanquetHallProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

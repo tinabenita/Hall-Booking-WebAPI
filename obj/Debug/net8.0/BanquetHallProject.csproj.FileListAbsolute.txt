@@ -6,6 +6,7 @@ C:\Users\tiber\source\repos\BanquetHallProject\bin\Debug\net8.0\BanquetHallProje
 C:\Users\tiber\source\repos\BanquetHallProject\bin\Debug\net8.0\BanquetHallProject.runtimeconfig.json
 C:\Users\tiber\source\repos\BanquetHallProject\bin\Debug\net8.0\BanquetHallProject.dll
 C:\Users\tiber\source\repos\BanquetHallProject\bin\Debug\net8.0\BanquetHallProject.pdb
+C:\Users\tiber\source\repos\BanquetHallProject\bin\Debug\net8.0\DotNetEnv.dll
 C:\Users\tiber\source\repos\BanquetHallProject\bin\Debug\net8.0\Humanizer.dll
 C:\Users\tiber\source\repos\BanquetHallProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\tiber\source\repos\BanquetHallProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -24,6 +25,7 @@ C:\Users\tiber\source\repos\BanquetHallProject\bin\Debug\net8.0\Newtonsoft.Json.
 C:\Users\tiber\source\repos\BanquetHallProject\bin\Debug\net8.0\Npgsql.dll
 C:\Users\tiber\source\repos\BanquetHallProject\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\tiber\source\repos\BanquetHallProject\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\tiber\source\repos\BanquetHallProject\bin\Debug\net8.0\Sprache.dll
 C:\Users\tiber\source\repos\BanquetHallProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\tiber\source\repos\BanquetHallProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\tiber\source\repos\BanquetHallProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -92,6 +94,7 @@ C:\Users\tiber\source\repos\BanquetHallProject\obj\Debug\net8.0\BanquetHallProje
 C:\Users\tiber\source\repos\BanquetHallProject\obj\Debug\net8.0\BanquetHallProject.csproj.CoreCompileInputs.cache
 C:\Users\tiber\source\repos\BanquetHallProject\obj\Debug\net8.0\BanquetHallProject.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\tiber\source\repos\BanquetHallProject\obj\Debug\net8.0\BanquetHallProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tiber\source\repos\BanquetHallProject\obj\Debug\net8.0\BanquetHallProject.sourcelink.json
 C:\Users\tiber\source\repos\BanquetHallProject\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\tiber\source\repos\BanquetHallProject\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\tiber\source\repos\BanquetHallProject\obj\Debug\net8.0\staticwebassets\msbuild.BanquetHallProject.Microsoft.AspNetCore.StaticWebAssets.props
