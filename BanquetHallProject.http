@@ -1,0 +1,6 @@
+@BanquetHallProject_HostAddress = http://localhost:5003
+
+GET {{BanquetHallProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

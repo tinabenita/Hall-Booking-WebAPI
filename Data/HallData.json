@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 101,
+    "Name": "Banyan Room",
+    "Capacity": 25,
+    "Price": 20000
+  },
+  {
+    "Id": 102,
+    "Name": "Chinar Room",
+    "Capacity": 55,
+    "Price": 33000
+  },
+  {
+    "Id": 103,
+    "Name": "Ashoka Room",
+    "Capacity": 30,
+    "Price": 26000
+  },
+  {
+    "Id": 104,
+    "Name": "Mango Room",
+    "Capacity": 10,
+    "Price": 15000
+  },
+  {
+    "Id": 105,
+    "Name": "Strawberry Hall",
+    "Capacity": 45,
+    "Price": 50000
+  }
+]
